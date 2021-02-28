@@ -34,3 +34,4 @@ Menu dalam bottom navigation view dibuat dari menu/menu_bottom.xml seperti kode 
 
 Hasil dari bottom navigationnya pada akhirnya sebagai berikut.
 
+![image](https://drive.google.com/uc?export=view&id=1w6BpZ6ZUzHOf9PfTzfdIztzptUk7Z_DN)
